@@ -1,6 +1,8 @@
 ex-branches blue
 ===========
 
+I like big books and I cannot lie. :book:
+
 This repository contains several commits on `master` branch and two on feature branches and helps demonstrate branching and merging Git commands.
 
 ## Usage
